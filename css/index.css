@@ -107,7 +107,7 @@ h1 {
 }
 
 .trailer {
-	background: url('./img/cloud_back.png') no-repeat left bottom -200px / cover;
+	background: url('../img/cloud_back.png') no-repeat left bottom -200px / cover;
 	margin: auto;
 	overflow: hidden;
 	text-align: center;
