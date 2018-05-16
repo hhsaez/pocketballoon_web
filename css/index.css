@@ -156,9 +156,11 @@ h1 {
 }
 
 .screenshots img {
-	width: 128px;
-	height: 256px;
+	width: 200px;
+	/* height: 400px; */
 	object-fit: contain;
+	margin: 2px;
+	border-radius: 10px;
 }
 
 .outro {
